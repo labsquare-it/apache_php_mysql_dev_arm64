@@ -1,5 +1,5 @@
-# apache_php_mysql_dev_arm_M1
-Ambiente di sviluppo web Apache-PHP-MySql con Docker Compose per ARM Apple Silicon M1
+# apache_php_mysql_dev_arm_apple_silicon
+Ambiente di sviluppo web Apache-PHP-MySql con Docker Compose per ARM Apple Silicon
 
 ### Che cos'è
 **apache_php_mysql_dev** è un'applicazione Docker multi-contenitore realizzata con *Docker Compose*<sup>1</sup> che mette a disposizione un ambiente di sviluppo con *Apache*, *PHP*, *MySQL* e *phpMyAdmin* già configurati e pronti all'uso per lo sviluppo di applicazioni web con PHP e database di MySQL.<br><br>
