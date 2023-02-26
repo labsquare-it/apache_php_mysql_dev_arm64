@@ -16,7 +16,7 @@ Ambiente di sviluppo web Apache-PHP-MySql con Docker Compose per ARM Apple Silic
 </pre>
 
 - **mysql_data** è la directory del host montata nel docker-container, per realizzare la persistenza dei database di MySQL sul host.<br>
-- **www** è la directory del host montata sulla root-directory delle pagine web gestite da Apache sul docker-container, per realizzare la persistenza delle pagine PHP del progetto sul host e, allo stesso tempo, per rendere più semplice la loro gestione.<br>
+- **www** è la directory del host montata sulla root-directory delle pagine web gestite da Apache nel docker-container, per realizzare la persistenza delle pagine PHP del progetto sul host e, allo stesso tempo, per rendere più semplice la loro gestione.<br>
 *P.S. Entrambe le cartelle saranno create automaticamente da Docker Compose durante la creazione dei docker-container.*<br>
 
 ### Creazione dei docker-container ed esecuzione con Docker Compose
