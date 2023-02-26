@@ -2,7 +2,7 @@
 Ambiente di sviluppo web Apache-PHP-MySql con Docker Compose per ARM Apple Silicon
 
 ### Che cos'è
-**apache_php_mysql_dev_arm_apple_silicon** è un'applicazione Docker multi-contenitore realizzata con *Docker Compose*<sup>1</sup> che mette a disposizione un ambiente di sviluppo con *Apache*, *PHP*, *MySQL* e *phpMyAdmin* già configurati e pronti all'uso per lo sviluppo di applicazioni web con PHP e database di MySQL per le architetture ARM Apple Silicon.<br><br>
+**apache_php_mysql_dev_arm_apple_silicon** è un'applicazione Docker multi-contenitore realizzata con *Docker Compose*<sup>1</sup> che mette a disposizione un ambiente di sviluppo con *Apache*, *PHP*, *MySQL* e *phpMyAdmin*, già configurati e pronti all'uso per lo sviluppo di applicazioni web con PHP e database di MySQL, per le architetture ARM Apple Silicon.<br><br>
 <sup>1</sup> [Docker Compose](https://docs.docker.com/compose/) è uno strumento per la definizione e l’esecuzione di *applicazioni Docker multi-contenitore*.
 
 ### Struttura del progetto
